@@ -15,5 +15,12 @@
         "psr-4": {
             "Arkal\\Contact\\" : "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Arkal\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
