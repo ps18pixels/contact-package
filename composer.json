@@ -1,0 +1,19 @@
+{
+    "name": "arkal/contact",
+    "description": "Sending mail through contact form",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pradeep",
+            "email": "pradeep.18pixels@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Arkal\\Contact\\" : "src/"
+        }
+    }
+}
